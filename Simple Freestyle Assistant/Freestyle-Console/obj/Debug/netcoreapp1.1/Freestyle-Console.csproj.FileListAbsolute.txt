@@ -1,0 +1,9 @@
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\bin\Debug\netcoreapp1.1\Freestyle-Console.deps.json
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\bin\Debug\netcoreapp1.1\Freestyle-Console.runtimeconfig.json
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\bin\Debug\netcoreapp1.1\Freestyle-Console.runtimeconfig.dev.json
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\bin\Debug\netcoreapp1.1\Freestyle-Console.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\bin\Debug\netcoreapp1.1\Freestyle-Console.pdb
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\obj\Debug\netcoreapp1.1\Freestyle-Console.csprojResolveAssemblyReference.cache
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\obj\Debug\netcoreapp1.1\Freestyle-Console.AssemblyInfo.cs
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\obj\Debug\netcoreapp1.1\Freestyle-Console.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\Freestyle-Console\Freestyle-Console\obj\Debug\netcoreapp1.1\Freestyle-Console.pdb
